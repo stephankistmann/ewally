@@ -6,7 +6,7 @@ This challenge was made to validate boletos and receive the data contained in th
 
 ## How to install
 
-Run the command "yarn" at the terminal to install dependencies
+Run the command line "yarn" in the terminal to install dependencies
 
 ## How to use it
 
@@ -18,4 +18,4 @@ ex: http://localhost:8080/boleto/21290001192110001210904475617405975870000002000
 
 ## Tests
 
-To run tests simply run the command "yarn test" on the command line
+To run tests simply run the command line "yarn test" in the terminal
