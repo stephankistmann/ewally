@@ -6,8 +6,6 @@ export const moduleTen = (
   vd: number,
   fieldNumber?: number,
 ) => {
-  console.log(array, vd, fieldNumber);
-
   const reducedValue = array.reduce(
     (prev: number, current: number, index: number) => {
       const isIndexEven = checkEven(index);

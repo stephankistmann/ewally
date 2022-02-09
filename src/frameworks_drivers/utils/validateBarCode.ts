@@ -2,8 +2,6 @@ import AppError from '../config/appError';
 import { moduleEleven, moduleTen } from './';
 
 export const validateBarCode = (code: string, type: number) => {
-  console.log(code, type);
-
   let verificationDigit;
 
   if (type === 47) {
